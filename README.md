@@ -1,4 +1,4 @@
-# Brainstem_DTI_Attractor_Paper
+# Brainstem_Diffusion_Attractors
 Code repository for the paper - 'The structural and functional connectivity between distinct neuromodulatory systems underpins dynamic shifts in brain network topology and attractor landscape topography', Taylor et al. (2022)
 
 Dynamic Functional connectivity folder contains all corresponding code for the dynamic functional connectivity analysis performed in this paper. Functions in the dynamic functional connectivity folder are dependent on external functions, including code from https://github.com/macshine/coupling and https://sites.google.com/site/bctnet/.
